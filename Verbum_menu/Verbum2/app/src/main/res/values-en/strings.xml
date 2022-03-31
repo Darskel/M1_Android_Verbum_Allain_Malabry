@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Verbum</string>
+    <string name="title_daily_mode">Daily word</string>
+    <string name="title_choice_mode">Infinite mode</string>
+    <string name="launch_infinity_mode">Launch infinite mode</string>
+    <string name="launch_daily_mode">Launch daily word</string>
+    <string name="texte_daily_mode">New word everyday at 00:00</string>
+    <string name="winstreak">Winstreak Infinite mode :</string>
+    <string name="resume_daily_word">With this mode, you can only play once per day. Once the word has been found or not, the grid is blocked until the following day.</string>
+    <string name="resume_infinite_mode">This mode is infinite mode. You can practice as much as you want, with random words each time.</string>
+</resources>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Verbum</string>
+    <string name="title_daily_mode">Mot du jour</string>
+    <string name="title_choice_mode">Mode infini</string>
+    <string name="launch_infinity_mode">Lancer mode infini</string>
+    <string name="launch_daily_mode">lancer mot du jour</string>
+    <string name="texte_daily_mode">"Un nouveau mot tout les jours à 00:00 "</string>
+    <string name="winstreak">Winstreak mode infini :</string>
+    <string name="resume_daily_word">Avec ce mode, vous ne pouvez jouer qu\'une seule fois par jour. Une fois le mot trouvé ou non, la grille est bloquée jusqu\'au lendemain.</string>
+    <string name="resume_infinite_mode">Ce mode est le mode infini. Vous pouvez vous entrainer autant que vous voulez, avec des mots aléatoires à chaque fois.</string>
+</resources>
